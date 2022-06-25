@@ -10,3 +10,10 @@ By re-evaluating the strategies that produce wins on the field, the 2002 Athleti
 
 Because of the team's smaller revenues, Oakland is forced to find players undervalued by the market, and their system for finding value in undervalued players has proven itself thus far. This approach brought the A's to the playoffs in 2002 and 2003.
 
+Project Aim
+The aim of this project is to find 3 replacemnent players for the Oakland baseball team with similar metrics as the departing key players.
+
+Departing players
+ 2000 AL MVP Jason Giambi to the New York Yankees
+ outfielder Johnny Damon to the Boston Red Sox
+ closer Jason Isringhausen to the St. Louis Cardinals
