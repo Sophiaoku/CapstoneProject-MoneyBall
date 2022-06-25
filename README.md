@@ -14,6 +14,6 @@ Project Aim
 The aim of this project is to find 3 replacemnent players for the Oakland baseball team with similar metrics as the departing key players.
 
 Departing players
- 2000 AL MVP Jason Giambi to the New York Yankees
- outfielder Johnny Damon to the Boston Red Sox
- closer Jason Isringhausen to the St. Louis Cardinals
+ 2000 AL MVP Jason Giambi to the New York Yankees,
+ outfielder Johnny Damon to the Boston Red Sox,
+ and closer Jason Isringhausen to the St. Louis Cardinals
